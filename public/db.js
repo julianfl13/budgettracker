@@ -47,4 +47,5 @@ getAll.onSuccess = function(){
         }
     }
 }
+
 window.addEventListener("online", checkDatabase);
